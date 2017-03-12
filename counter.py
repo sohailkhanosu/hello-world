@@ -1,5 +1,13 @@
 """
     Word Statistics
+    Author: Sohail Khan
+
+    This program is free software: you can redistribute it and/or modify it
+    under the terms of the MIT License. A copy of the license is included with
+    this project. If you cannot find the license, please contact the authors.
+
+
+    Word Statistics
     You can input a file or enter text on command line for processing
 """
 import getopt
